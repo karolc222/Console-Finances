@@ -1,2 +1,14 @@
-# Console-Finances
-In this challenge, you'll be using the concepts you've learned to complete the required activity. This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company.
+This exercise contains a dataset composed of arrays with two fields: Date and Profit/Losses.
+
+My task was to write JavaScript code that analyzes the records to calculate each of the following:
+
+The total number of months included in the dataset.
+
+The net total amount of Profit/Losses over the entire period.
+
+The average of the changes in Profit/Losses over the entire period.
+
+The greatest increase in profits (date and amount) over the entire period.
+
+The greatest decrease in losses (date and amount) over the entire period.
+
